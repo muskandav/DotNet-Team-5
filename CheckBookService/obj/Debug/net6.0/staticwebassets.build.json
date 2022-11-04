@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "udqJTAPbyujPRqjOgLc0HGb8jpXHXaiSzVsm8nyeOFk=",
+  "Source": "CheckBookService",
+  "BasePath": "_content/CheckBookService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
